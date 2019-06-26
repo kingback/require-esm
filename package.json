@@ -1,0 +1,25 @@
+{
+  "name": "require-esm",
+  "version": "1.0.0",
+  "description": "require esmodule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingback/require-esm.git"
+  },
+  "keywords": [
+    "require",
+    "esmodule",
+    "esm",
+    "default"
+  ],
+  "author": "ningzbruc@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kingback/require-esm/issues"
+  },
+  "homepage": "https://github.com/kingback/require-esm#readme"
+}
